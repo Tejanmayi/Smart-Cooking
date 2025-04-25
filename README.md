@@ -145,13 +145,10 @@ The hybrid recommendation system combines:
    - Maximum cooking time
    - Nutritional constraints
 
-## 📝 License
-
-MIT License - feel free to use this project for your own purposes.
 
 ## 👥 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-Made with 🍅 by Tejanmayi
+
 
