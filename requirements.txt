@@ -1,0 +1,19 @@
+# Web Scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Vectorization
+sentence-transformers==2.2.2
+numpy==1.24.3
+
+# Database
+supabase==1.0.3
+psycopg2-binary==2.9.6
+
+# Airflow
+apache-airflow==2.5.1
+apache-airflow-providers-postgres==5.4.0
+
+# Utilities
+python-dotenv==1.0.0
+pandas==2.0.2 
